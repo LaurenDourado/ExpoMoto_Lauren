@@ -14,4 +14,5 @@ O desafio foi criar um design que refletisse a emoção e energia do universo da
 
 ## Como Visualizar 🏍️
 Você pode visualizar o protótpo diretamente aqui.
-https://www.figma.com/design/fsMR2cwKP1gL9z3FALNvor/ExpoMoto?m=auto&t=dMH78ALq9lhO0KeF-6
+
+> https://www.figma.com/design/fsMR2cwKP1gL9z3FALNvor/ExpoMoto?m=auto&t=dMH78ALq9lhO0KeF-6
